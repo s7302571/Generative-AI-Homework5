@@ -127,3 +127,7 @@ A few notes on what each case is testing:
   tool. If the hex itself is wrong, the canonical output will also be wrong.
 - **Mainnet-style assumption** — no chain ID is mixed into the hash, so
   results are only meaningful for chains that follow the original EIP-55.
+
+
+## Video 
+https://www.youtube.com/watch?v=zw-wnrSM8E4
